@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0008/krp/v1/juan/57
+seq: 57
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0008_WYG_057-1a, image: WYG0787/WYG0787-0622c.png}
+body:
+  text: 古今律厯考卷五十七明邢雲路撰厯法二十二厯法五星立成土星盈度無初末之别縮度亦無初末金星盈縮一理水盈縮積日加分積度水星盈縮一理古今律厯考卷五十七
+  hash: sha256:759cf8a5b4d827514290e2849d804c9afc9990dda362dd5e7804eb7ccc3751c6
+metadata:
+  title: 古今律歷考
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:20.513260'
+  juan_title: 卷五十七
+  source:
+    repository: kanripo
+    path: KR3f0008/KR3f0008_057.txt
+hash: sha256:254a01c715aaf52a0690d31055f28ddfa4d595acbd50be4ff3d8087269935e9d

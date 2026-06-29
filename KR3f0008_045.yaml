@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0008/krp/v1/juan/45
+seq: 45
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0008_WYG_045-1a, image: WYG0787/WYG0787-0513a.png}
+body:
+  text: 古今律厯考卷四十五明邢雲路撰厯法十厯法授時立成太隂限度遲疾日率分損益捷法損益分遲疾度右遲疾積度相減為損益損益以日率而一為捷法右置八百二十以遲行度而一為捷法古今律厯考卷四十五
+  hash: sha256:13007fde9a7141d77155198b22d68a8b0d3fac4987f91e97d6fc1ff8883ffeaf
+metadata:
+  title: 古今律歷考
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:20.513260'
+  juan_title: 卷四十五
+  source:
+    repository: kanripo
+    path: KR3f0008/KR3f0008_045.txt
+hash: sha256:f97ef3a2ff2a15afc964e016749b7236b16c4fb2d814d678bda70fcaa3ee95e2

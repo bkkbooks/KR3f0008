@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0008/krp/v1/juan/46
+seq: 46
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0008_WYG_046-1a, image: WYG0787/WYG0787-0524a.png}
+body:
+  text: 古今律厯考卷四十六明邢雲路撰厯法十一厯法刻漏大統倍出分為夜分以百刻減晨分為昏分減出分為入分減夜分為晝分折半為半晝分冬夏同夏至後縮晨分日出分半晝分日入分昏分古今律厯考卷四十六
+  hash: sha256:981177ee1d63d9528270e648b25176a4d9d9f03d2feaa03d6a9dfdd1a5aeb51a
+metadata:
+  title: 古今律歷考
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:20.513260'
+  juan_title: 卷四十六
+  source:
+    repository: kanripo
+    path: KR3f0008/KR3f0008_046.txt
+hash: sha256:2b85fcc471efdf0904034213fb1a76677cd2d459e772653c51c3de6d4761de8c

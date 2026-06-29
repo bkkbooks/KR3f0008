@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0008/krp/v1/juan/40
+seq: 40
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0008_WYG_040-1a, image: WYG0787/WYG0787-0452c.png}
+body:
+  text: 古今律厯考卷四十明邢雲路撰厯法五厯法授時太陽冬至前後立成盈初縮末其法以次增加自上而下若以術則各推縮初同太陽夏至前後立成縮初盈末古今律厯考卷四十
+  hash: sha256:efd3576bbd8fc71b01b879db07a770c0465de122abb141e7ce45d43f4066561c
+metadata:
+  title: 古今律歷考
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:20.513260'
+  juan_title: 卷四十
+  source:
+    repository: kanripo
+    path: KR3f0008/KR3f0008_040.txt
+hash: sha256:bd8ad7cd4a15b87372f627ca60dffbee653b0e1a7f0d71e678a386b503e093ae
