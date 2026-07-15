@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3f0008_WYG_040-1a, image: WYG0787/WYG0787-0452c.png}
 body:
-  text: 古今律厯考卷四十明邢雲路撰厯法五厯法授時太陽冬至前後立成盈初縮末其法以次増加自上而下若以術則各推縮初同太陽夏至前後立成縮初盈末古今律厯考巻四十
-  hash: sha256:ced46587e5af7f9e7334ea819a333dcc42112f231ecca6b4195babc5088a53d0
+  text: 古今律厯考卷四十明邢雲路撰厯法五厯法授時太陽冬至前後立成盈初縮末其法以次增加自上而下若以術則各推縮初同太陽夏至前後立成縮初盈末古今律厯考卷四十
+  hash: sha256:efd3576bbd8fc71b01b879db07a770c0465de122abb141e7ce45d43f4066561c
 metadata:
   title: 古今律歷考
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3f0008/KR3f0008_040.txt
-hash: sha256:b0fc1e8627bd96f5f9701926f7ac9160640d866b1e6a7d3c5a556400115be0b9
+hash: sha256:bd8ad7cd4a15b87372f627ca60dffbee653b0e1a7f0d71e678a386b503e093ae
