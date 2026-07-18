@@ -251,6 +251,7 @@ markers:
   - {type: substitution, offset: 929, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: substitution, offset: 934, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
   - {type: punctuation, offset: 935, content: (, id: KR3f0008_krp_059-bkkpn1}
+  - {type: voice, offset: 935, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 946, content: /, id: KR3f0008_krp_059-bkkpn2}
   - {type: substitution, offset: 946, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: punctuation, offset: 947, content: ), id: KR3f0008_krp_059-bkkpn3}
@@ -1013,4 +1014,4 @@ markers:
 
       ', id: KR3f0008_krp_059-bkkkrnewl197}
   back: []
-hash: sha256:be0b25f94768665eddc6e8292b8dc37798e58e1beaa437d37d10c26ea34f6481
+hash: sha256:78d95fcd2da069aa8103787a980e48903ed78cd0cd469368481e6c446a68d3c1
